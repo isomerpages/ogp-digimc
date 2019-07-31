@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>step3_send_hr</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="step3_send_hr" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="send-MC" transform="translate(63.000000, 63.000000)" stroke="#000000" stroke-width="5">
+            <g id="Group-236">
+                <path d="M143.25,62.625 L173.25,83.25 L173.25,162 C173.25,168.21 168.21,173.25 162,173.25 L12,173.25 C5.79,173.25 0.75,168.21 0.75,162 L0.75,83.25 L30.75,62.625" id="Stroke-385"></path>
+                <path d="M143.25,62.625 L173.25,83.25 L173.25,162 C173.25,168.21 168.21,173.25 162,173.25 L12,173.25 C5.79,173.25 0.75,168.21 0.75,162 L0.75,83.25 L30.75,62.625" id="Stroke-385"></path>
+                <polyline id="Stroke-386" points="23.25 150.75 60.75 120.75 113.25 120.75 150.75 150.75"></polyline>
+                <path d="M173.25,83.25 L128.25,113.25" id="Stroke-387"></path>
+                <path d="M0.75,83.25 L45.75,113.25" id="Stroke-388"></path>
+                <polyline id="Stroke-389" points="143.25 102 143.25 0.75 30.75 0.75 30.75 102"></polyline>
+            </g>
+            <polygon id="Stroke-4362" fill="#60BFAB" points="78.4285714 35.5714286 78.4285714 27 65.5714286 27 65.5714286 35.5714286 57 35.5714286 57 48.4285714 65.5714286 48.4285714 65.5714286 57 78.4285714 57 78.4285714 48.4285714 87 48.4285714 87 35.5714286"></polygon>
+            <path d="M49.5,79.5 L124.5,79.5" id="Stroke-4360"></path>
+            <path d="M49.5,94.5 L124.5,94.5" id="Stroke-4361"></path>
+        </g>
+    </g>
+</svg>
