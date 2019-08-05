@@ -4,7 +4,7 @@ title: MC.GOV.SG
 description: View your official medical certificate online
 image: /images/logo.svg
 permalink: /
-notification: View our Terms of Use and Privacy Policy
+notification: View our <a href="/terms-of-use/">Terms of Use</a> and <a href="/privacy/">Privacy Policy</a>
 sections:
     - hero:
         title: Digital MC
