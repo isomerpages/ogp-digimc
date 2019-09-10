@@ -49,3 +49,7 @@ You may complete our support form, and we will follow up on your request promptl
 ### Is there an option to send to my email address instead?
 
 As most clinics request for the patient’s phone number during the registration process, but not their email address, you may share the link through email to yourself.
+
+### Is DigiMC recognised for insurance claims?
+
+If your insurers require an MC for insurance claims to be made, DigiMC is an authentic MC and should be recognised by them. You may direct them to this website or contact us via the support form if they have further clarifications about DigiMC. For other clarifications on other medical records or documents, please contact the clinic you visited instead.

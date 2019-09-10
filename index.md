@@ -19,7 +19,7 @@ sections:
         alt: Stylised drawing of a doctor with stethoscope
     - infopic:
         title: Step 2
-        description: You will receive an SMS containing an URL to the digital MC
+        description: You will receive an SMS containing an URL to the digital MC. Key in your DOB to do a one-time unlock on the URL.
         image: /images/step2_sms_link.svg
         alt: Stylised drawing of a phone with a new SMS notification
     - infopic:
