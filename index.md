@@ -31,5 +31,5 @@ sections:
         title: Have more questions?
         description: We want to hear your questions and feedback!
         button: Contact Us
-        url: https://form.sg/#!/forms/govtech/5ad6f00ceccc34000fd1c135
+        url: https://go.gov.sg/digitalmc-support
 ---
