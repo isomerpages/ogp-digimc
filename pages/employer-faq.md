@@ -18,6 +18,10 @@ There is no stipulated retention period for MCs and some companies do not retain
 
 No. The MC link does not expire as some employers may audit MCs down the road.
 
+### If my employees pass me a paper MC, can I request for a DigiMC?
+
+Not all healthcare institutions issue DigiMCs today and for institutions which do, not all of their patients will receive the DigiMC. Some patients may request for a paper MC instead (e.g. if they left their phones at home), and employers should continue to accept paper MCs.
+
 ### Some of my staff currently take only part of the full-day MC which they received and their supervisors are required to sign on it to verify that they had only taken part of the MC. How can I do this with DigiMC?
 
 In these specific situations, you may consider an alternative workflow such as having the supervisor to indicate in an email to HR, with the DigiMC link, that the staff had only taken part of the MC. If required, the DigiMC may also be printed to be signed on as per a paper MC.
