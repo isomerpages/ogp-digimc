@@ -24,7 +24,7 @@ sections:
         alt: Stylised drawing of a phone with a new SMS notification
     - infopic:
         title: Step 3
-        description: Forward the URL to your Employer or Company HR department
+        description: Forward the URL to your Employer or Company HR department. If your employer has queries, check out our [Employer FAQ](/employer-faq)
         image: /images/step3_send_hr.svg
         alt: Stylised drawing of an envelope with an MC
     - infobar:

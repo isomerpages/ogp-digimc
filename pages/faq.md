@@ -8,19 +8,21 @@ A digital medical certificate (MC) is the online version of a paper medical cert
 
 ### Why are we digitalising MCs?
 
-It can be inconvenient to submit a paper MC to the human resource department or supervisor. We seek to ease this process by allowing employees to submit MC via an SMS containing the MC link. You no longer need to worry about misplacing paper MC or having to request for a replacement. It is also more sustainable as using less paper saves our environment!
+It can be inconvenient to submit a paper MC to the human resource department or supervisor. We seek to ease this process by allowing employees to submit MC via an SMS containing the MC link. You no longer need to worry about misplacing paper MC or having to request for a replacement. It is also more sustainable as using less paper saves our environment! 
+
+When we conducted a pilot from Apr - Jul 2019, 95% of 179 patients agree to the question "On the whole I'm satisfied with using DigiMC", with reasons including:
+- Able to easily submit MC to more than 1 person
+- Will not forget to bring MC back to work
+- Will not lose it as long as I have the link
+- Can send it immediately on the same day I visit doctor 
 
 ### When will digital MCs be made available?
 
-Digital MC will be available at selected clinics from May 2018.
-
-### Which clinics support digital MCs?
-
-Digital MCs will be available at selected SingHealth clinics, and will expand to more clinics over time.
+Digital MC will be made available to all SingHealth institutions by early 2020.
 
 ### Can I still get a paper MC if I want to?
 
-Paper MC will still be available at the moment. You may also print the digital MC if you wish.
+Paper MC will still be available on request.
 
 ### Can my employer or other people access my digital MC without my consent?
 
@@ -32,11 +34,11 @@ As the digital MC is a computer-generated MC, the doctor’s signature is not re
 
 ### What if my employer does not recognise my digital MC?
 
-You may inform them that this is a new initiative from SNDGG, and point them to this page <https://www.mc.gov.sg>. For more information or clarification, they may contact us via the support form.
+You may inform them to check out [FAQ for employers](/employer-faq).
 
 ### What if I lose my digital MC?
 
-You will need to request the clinic to issue the paper MC. We encourage you to save your digital MC SMS/link to prevent such a situation.
+You will need to request the clinic to issue the paper MC. We encourage you not to delete your DigiMC SMS, and save the link, to prevent such a situation.
 
 ### What if I do not receive my SMS link to the digital MC after seeing the doctor?
 
