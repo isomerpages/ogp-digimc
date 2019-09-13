@@ -26,6 +26,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
+google_analytics: UA-118989850-1
+
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
