@@ -24,12 +24,12 @@ sections:
         alt: Stylised drawing of a phone with a new SMS notification
     - infopic:
         title: Step 3
-        description: Forward the URL to your Employer or Company HR department
+        description: Forward the URL to your Employer or Company HR department. If your employer has queries, check out our Employer FAQ linked below.
         image: /images/step3_send_hr.svg
         alt: Stylised drawing of an envelope with an MC
     - infobar:
         title: Have more questions?
         description: We want to hear your questions and feedback!
         button: Contact Us
-        url: https://form.sg/#!/forms/govtech/5ad6f00ceccc34000fd1c135
+        url: https://go.gov.sg/digitalmc-support
 ---

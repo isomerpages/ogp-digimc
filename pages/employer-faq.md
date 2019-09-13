@@ -36,7 +36,7 @@ If you just need to sight the MC, you can request your employees to forward the 
 
 ### What if my current system requires an attachment?
 
-In the long run, DigiMC should be saved as a link rather than an attachment as its authenticity comes from being view online at the mc.gov.sg domain. If your system has a comments field, your employees may insert the DigiMC link into the field instead. If your system does not have a comments field, DigiMC can be downloaded and saved as a PDF or print screen to be uploaded as an attachment. To download the MC, right click and select the print option etc.
+In the long run, DigiMC should be saved as a link rather than an attachment as its authenticity comes from being viewed online at the mc.gov.sg domain. If your system has a comments field, your employees may insert the DigiMC link into the field instead. If your system does not have a comments field, DigiMC can be downloaded and saved as a PDF or print screen to be uploaded as an attachment. To download the MC, right click and select the print option etc.
 
 ### Can DigiMC be integrated with my HR IT system?
 
