@@ -3,6 +3,6 @@ title: Institutions
 permalink: /institutions/
 ---
 
-### DigiMC is supported by the following institutions
+### DigiMC is supported by selected clinics at the following institutions
 
-![SingHealth Logos](/images/singhealth_institutions_logos-01.png)
+![SingHealth Logos](/images/singhealth_institutions_logos2-01.png)
