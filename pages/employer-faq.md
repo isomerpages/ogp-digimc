@@ -6,9 +6,9 @@ title: Frequently Asked Questions (Employers)
 
 MCs are legitimate as long as they are issued by SMC-registered doctors. As the MC is a computer-generated MC, the doctor’s signature is not required. The doctor’s name and MCR number are stated on the DigiMC. To further cement its authenticity, ensure that the digital MC is issued from the ‘https://mc.gov.sg’ domain.
 
-### How do I verify that the DigiMC is authentic I receive a downloaded version of the MC?
+### How do I verify that the DigiMC is authentic if I receive a downloaded version of the MC?
 
-The DigiMC link is printed at the bottom of the MC. You may enter the link into a web browser to check if the downloaded version corresponds to the online MC.
+The DigiMC link and QR code is printed at the bottom of the MC. You may enter the link into a web browser or scan the QR code to check if the downloaded version corresponds to the online MC.
 
 ### Do I need to retain the MC and for how long?
 
