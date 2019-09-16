@@ -3,13 +3,6 @@ title: Institutions
 permalink: /institutions/
 ---
 
-### Institutions using DigiMC
+### DigiMC is supported by the following institutions
 
-<img src="/images/SGH.jpg" width="200">
-<img src="/images/CGH.jpg" width="200">
-<img src="/images/SKH.jpg" width="200">
-<img src="/images/KKH.jpg" width="200">
-<img src="/images/NCCS.jpg" width="200">
-<img src="/images/NDCS.jpg" width="200">
-<img src="/images/NHCS.jpg" width="200">
-<img src="/images/SHP.jpg" width="200">
+![SingHealth Logos](/images/singhealth_institutions_logos-01.png)
