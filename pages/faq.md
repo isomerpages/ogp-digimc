@@ -40,6 +40,10 @@ You may inform them to check out [FAQ for employers](/employer-faq).
 
 You will need to request the healthcare institution to issue the paper MC. We encourage you not to delete your DigiMC SMS, and save the link, to prevent such a situation.
 
+### Is there a way I can access all DigiMCs through the mc.gov.sg website?
+
+No. Each DigiMC has a unique link and can only be accessed via that link which has been sent to you via SMS. All your DigiMCs will appear in the same SMS conversation and you can refer to that SMS conversation to find a previous DigiMC.
+
 ### What if I do not receive my SMS link to the digital MC after seeing the doctor?
 
 Please ensure that the mobile number that you have provided to the healthcare institution is updated. Alternatively, you may complete our support form, and we will follow up with your request promptly.
