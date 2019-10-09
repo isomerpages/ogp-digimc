@@ -59,3 +59,7 @@ As most healthcare institutions request for the patient’s phone number during 
 ### Is DigiMC recognised for insurance claims?
 
 If your insurers require an MC for insurance claims to be made, DigiMC is an authentic MC and should be recognised by them. You may direct them to this website or contact us via the support form if they have further clarifications about DigiMC. For other clarifications on other medical records or documents, please contact the healthcare institution you visited instead.
+
+### What types of leave can healthcare institutions issue DigiMC for?
+
+DigiMC can be issued for the following leave types: Hospitalisation leave, Outpatient sick leave, Maternity leave, Sterilisation leave, Time chit.
