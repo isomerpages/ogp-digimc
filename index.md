@@ -4,7 +4,7 @@ title: MC.GOV.SG
 description: View your official medical certificate online
 image: /images/logo.svg
 permalink: /
-notification: View our <a href="/terms-of-use/">Terms of Use</a> and <a href="/privacy/">Privacy Policy</a>
+notification: View our <a href="/terms-of-use/">Terms of Use</a> and <a href="/privacy/">Privacy Policy</a>. Warning: Never make payments through the DigiMC SMS. DigiMC does not collect any payments.
 sections:
     - hero:
         title: Digital MC
