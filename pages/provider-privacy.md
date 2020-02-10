@@ -1,6 +1,6 @@
 ---
-title: Privacy Statement
-permalink: /privacy/
+title: Privacy Statement (Providers)
+permalink: /provider-privacy/
 ---
 This Privacy Policy must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “Service”). In this Privacy Policy, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards).
 
@@ -47,14 +47,12 @@ This version of the Privacy Policy is dated Feb 10 2020.
 
 ### Annex
 
-1. Name of Service: Digital MC
+1. Name of Service: Digital MC (Providers)
 
 2. Types of data collected/requested
 
-    a. User behavioural data on site, such as clicks and views
+    a. Contact information, such as email address and/or phone number.
 
-    b. Contact information, data contained in queries or feedback from you, and optional personal identifiable information when filling out a support form
-
-    c. Medical certificate data obtained from healthcare institution databases
+    b. Billing information
 
 This Annex was last updated on Feb 10 2020.
