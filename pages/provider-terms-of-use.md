@@ -1,6 +1,6 @@
 ---
-title: Terms of Use
-permalink: /terms-of-use/
+title: Terms of Use (Providers)
+permalink: /provider-terms-of-use/
 ---
 #### 1. General
 
@@ -103,9 +103,9 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 <ul style="list-style-type: none;">
   <li>6.2.1. your access to or use of this Service, or any part thereof;</li>
   <li>6.2.2. any loss of access to our use of this Service or any part of this Service,  howsoever caused;</li>
-  <li>6.2.3. any inaccuracy or incompleteness in, or errors or omissions in the  transmission of, the Service;</li>
-  <li>6.2.4. any delay or interruption in the transmission of the Service, whether  caused by delay or interruption in transmission over the internet or  otherwise; or</li>
-  <li>6.2.5. any decision made or action taken by you or any third party in reliance  upon the Service,
+  <li>6.2.3. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Service;</li>
+  <li>6.2.4. any delay or interruption in the transmission of the Service, whether caused by delay or interruption in transmission over the internet or  otherwise; or</li>
+  <li>6.2.5. any decision made or action taken by you or any third party in reliance upon the Service,
 regardless of whether the Government has been advised of the possibility of such damage or loss.</li>
 </ul>
 
@@ -130,7 +130,7 @@ regardless of whether the Government has been advised of the possibility of such
 
 #### 8. Privacy Policy
 
-You also agree to the terms of the <a href="/privacy/">Privacy Policy</a> for this Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
+You also agree to the terms of the <a href="/provider-privacy/">Privacy Policy</a> for this Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
 
 #### 9. Rights of Third Parties
 
@@ -149,13 +149,12 @@ Subject to the rights of the Third Party set out in Clause 4.5, a person who is 
 11.2. Subject to Clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
 
 11.3. GovTech may, at its sole discretion, refer any dispute referred to in Clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre ("SIAC") in Singapore in accordance with the Arbitration Rules of the SIAC ("SIAC Rules") for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further:
-
-<ul style="list-style-type: none;">
+  <ul style="list-style-type: none;">
   <li>11.3.1. The seat of the arbitration shall be Singapore.</li>
   <li>11.3.2. The tribunal shall consist of one (1) arbitrator.</li>
   <li>11.3.3. The language of the arbitration shall be English.</li>
   <li>11.3.4. All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.</li>
-</ul>
+  </ul>
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
@@ -163,20 +162,27 @@ This version of the Terms of Use is dated February 10 2020.
 
 ### Schedule
 
-1. Name of Service: Digital MC
+1. Name of Service: Digital MC (Providers)
 
 2. Nature of Service
 
-   <ul style="list-style-type: none;">
-   <li>a. This Service facilitates the transmission of medical certificates in digital format.</li>
-   <li>b. Separate terms (and not these Terms of Use) govern the relationship between you and your healthcare provider, including your receipt of the medical certificate from your healthcare provider.</li>
-   <li>c. GovTech is <strong>NOT</strong> responsible for the quality of and any potential errors in the contents of the medical certificate.</li>
-   <li>d. Any issues concerning the contents of the medical certificate should be directed to the respective healthcare provider.</li>
-   </ul>
+    <ul style="list-style-type: none;">
+    <li>a.  This Service facilitates the use of DigiMC by healthcare providers to their patients. It draws data from you in order for GovTech to generate digital MCs for your patients, and has the following functionalities:
+        <ol style="list-style-type: lower-roman;">
+            <li>Displaying of Medical Certificates (“<strong>MC</strong>”) on a government domain (e.g. mc.gov.sg);</li>
+            <li>Hosting of MC data for as long as the Service runs. This is without prejudice and in addition to Clause 3.3.3 of the Terms of Use;</li>
+            <li>APIs to utilise the Service, such as creating and voiding of MCs;</li>
+            <li>Returning a unique link for each MC created.</li>
+        </ol>
+    </li>
+   <li>b. The Service does not include dissemination of MCs or links to users. This needs to be handled by you, typically via SMS, push notifications, email or displaying within an app. You are solely responsible for your choice and means of dissemination.</li>
+   <li>c. Where applicable, additional terms and/or descriptions of the Service may be contained in a separate document.</li>
+    </ul>
 
-3. Third Party software/services and Third Party Terms
-
-<ul style="list-style-type: none;">
-  <li>a. Twilio, Inc.'s Terms of Service, Acceptable Use Policy, Privacy Policy (<a href="https://www.twilio.com/legal/tos" target="_blank">https://www.twilio.com/legal/tos</a>)</li>
-  <li>b. Comodo CA Limited (Relying Party Agreement) (<a href="https://www.comodo.com/repository/docs/relying_party.php" target="_blank">https://www.comodo.com/repository/docs/relying_party.php</a>)</li>
-</ul>
+3. Special terms
+    <ul style="list-style-type: none;">
+    <li>a. The Service is intended for use by healthcare providers (such as hospitals and clinics) and is offered only to an entity that represents its entire group of affiliated healthcare providers (which shall include all new affiliated healthcare providers from time to time). By using the Service, you warrant and represent that you are such an entity and will be liable for the acts and omissions of each such affiliate. You shall ensure that such affiliates comply with the Terms of Use. Any claim or action against GovTech arising out of or in connection with these Terms of Use or the Service shall be brought by you only, and not by your affiliates. </li>
+    <li>b. You shall at all times ensure your (and your affiliates’) contract or agreement with the patient, insofar as it relates to the provision of DigiMC to patients, is consistent with the terms of DigiMC to patients and procures for GovTech, and maintains, GovTech’s rights thereunder. Such terms may be found at <a href="/privacy/">https://mc.gov.sg/privacy/</a>. You and your affiliates shall, in the alternative, ensure that the notice of the said terms is given to the patient prior to the use of DigiMC by you, your affiliates, or the patient.</li>
+    <li>c. You warrant and represent that you and your affiliates have complied and will continue to comply with all applicable laws, including laws concerning personal data protection, and that all necessary consent in respect of the provision of DigiMC to the patients has been obtained by you and your affiliates.</li>
+    <li>d. Nothing in these Terms of Use or the Service creates any relationship of agency, partnership, joint venture or other similar relationship between GovTech and you or your affiliates.</li>
+    <li>e. “Affiliates” and “affiliated healthcare providers” include entities that are corporations that are related to you under the Companies Act (Cap. 50), or any entity which effectively controls, is effectively controlled by, or is effectively controlled by an entity which effectively controls, you; and in this regard, an entity has effective control over another entity if the former entity owns or control, directly or indirectly, at least fifty per cent (50%) of the outstanding shares or securities (representing the right to vote for the election of directors or other managing authority) in the latter entity or has the power to direct the management and the policies of the latter entity whether through the ownership of voting capital by contract or otherwise.</li>
