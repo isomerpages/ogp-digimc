@@ -130,7 +130,7 @@ regardless of whether the Government has been advised of the possibility of such
 
 #### 8. Privacy Policy
 
-You also agree to the terms of the Privacy Policy for this Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
+You also agree to the terms of the <a href="/privacy/">Privacy Policy</a> for this Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
 
 #### 9. Rights of Third Parties
 
