@@ -1,0 +1,85 @@
+---
+title: Clinic Vendor Agreement
+permalink: /clinic-vendor-agreement/
+---
+#### 1A. General
+
+1A.1    This Clinic Vendor Agreement (the **“Agreement”**) governs the redistribution and use of the Government Technology Agency’s (“GovTech”) DigiMC (Provider) software (the "Service”) by an entity that provides medical record services to a hospital or clinic in Singapore (the “Clinic Vendor”).
+
+1A.2    By redistributing the Service or using the Service for and on behalf of the hospital or clinic, the Clinic Vendor unconditionally agrees and accepts to be legally bound by this Agreement and any amendments thereto from time to time. GovTech reserves the right to amend this Agreement at its sole and absolute discretion and at any time, and it is the Clinic Vendor’s responsibility to check for the latest terms. The terms are found here.
+
+**1A.3  If you do not agree to this Agreement, please do not redistribute or use this Service or any part of this Service.**
+
+#### 1. Redistribution and Use Terms and Restrictions 
+
+1.1.    The Clinic Vendor may redistribute the Service only to hospitals or clinics in Singapore which are its customers (the **“Customers”**). This right is non-exclusive, non-transferable, non-sublicensable and revocable at will by GovTech.
+
+1.2.    The Clinic Vendor shall ensure that the Customers are given notice, and are bound by, such terms of use applicable to the Customers in relation to the Service as may be required by GovTech from time to time (the <a href="/provider-terms-of-use/">“End User Terms”</a>). The Clinic Vendor shall ensure that information concerning the Customer’s use of the Service (including information needed to commence use) shall be given to GovTech upon request.
+
+1.3.    The Clinic Vendor may use the Service for and on behalf of any of its Customers to which the Clinic Vendor redistributed the Service to, only if the Clinic Vendor:
+<ul style="list-style-type: none;">
+  <li>1.3.1. has complied with the terms of Clause 1.2;</li>
+  <li>1.3.2. warrants and represents that it has the necessary authority, consent and permission from the Customer to use the Service for and on behalf of the Customer, and is able to produce evidence of such authority, consent or permission to GovTech upon request; and</li>
+  <li>1.3.3. it is jointly and severally liable to GovTech for any breach of the End User Terms caused by such use.</li>
+</ul>
+
+1.4.    Save as permitted under Clause 1.1 to 1.3, the Clinic Vendor shall have no other rights or licence to the Service and shall not:
+<ul style="list-style-type: none;">
+  <li>1.4.1. sublicense the Service; or</li>
+  <li>1.4.2. benchmark, reproduce, modify, reverse-engineer, decompile, or adapt the Service</li>
+</ul>
+without GovTech’s prior written consent.
+
+1.5.    All express or implied rights to the Service not specifically granted herein are expressly reserved to GovTech.
+
+
+#### 2. Disclaimers and Indemnity
+
+2.1.    The Service is provided on an "as is" and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties of any kind whatsoever in relation to the Service and hereby disclaims all express, implied and/or statutory warranties of any kind to theClinic Vendor or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to any representations or warranties:
+<ul style="list-style-type: none;">
+    <li>1.1.1.	as to the accuracy, completeness, correctness, currency, timeliness, 	reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of the Service; and/or</li>
+    <li>1.1.2.	that the Service or any functions associated therewith will be uninterrupted 	or error-free, or that defects will be corrected or that this Service, website and the server are and will be free of all viruses and/or other malicious, destructive or corrupting code, programme or macro.</li>
+</ul>
+
+2.2.    GovTech shall also not be liable to the Clinic Vendor or any third party for any damage or loss of any kind whatsoever and howsoever caused, including but not limited to any direct or indirect, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to the Clinic Vendor’s computer, software or any other property, whether arising directly or indirectly from –
+<ul style="list-style-type: none;">
+    <li>2.2.1.  redistribution of the Service, or any part thereof, through any means including hosting on a platform;</li>
+    <li>2.2.2.  any loss of access or use of this Service or any part of this Service, 	howsoever caused;</li>
+    <li>2.2.3.  any inaccuracy or incompleteness in, or errors or omissions in the 	transmission of, the Service;</li>
+    <li>2.2.4.  any delay or interruption in the transmission of the Service, whether caused by delay or interruption in transmission over the internet or otherwise; or</li>
+    <li>2.2.5.  any decision made or action taken by the Clinic Vendor or any third party in reliance upon the Service,</li>
+</ul>
+regardless of whether GovTech has been advised of the possibility of such damage or loss. 
+
+2.3.    Without prejudice and in addition to the foregoing, insofar as the Service facilitates or requires the provision, use or functioning of, or is provided in conjunction with, other products, software, materials and/or services not provided by GovTech, GovTech makes no representation or warranty in relation to such products, software, materials and/or services (including without limitation any representation or warranties as to timeliness, reliability, availability, interoperability, quality, fitness for purpose, non-infringement, suitability or accuracy).
+
+2.4.    The Clinic Vendor warrants and represents that the redistribution and use of the Service and the performance of its obligations in this Agreement do not and will not breach or violate, or cause GovTech to breach or violate, any laws, regulations, trade, economic and/or export sanctions (wherever in the world), and will not cause GovTech to incur any liability, cost, or expenses to any person.
+
+#### 3.	Miscellaneous
+
+3.1.    Nothing in this Agreement or the Service creates any relationship of agency, partnership, joint venture or other similar relationship between the Parties.
+
+#### 4.	Termination
+
+4.1.    Either Party may terminate the Agreement upon one (1) month’s prior written notice of a material breach by the other Party unless the breach is remedied within the notice period. If the breach is not capable of being remedied, the innocent Party may terminate the Agreement with immediate effect by written notice. 
+
+4.2.    Either Party may terminate this Agreement for convenience by giving the other Party seven (7) working days’ notice of the same.
+
+4.3.    In the event the Clinic Vendor wishes to terminate this Agreement, it shall send such notice to GovTech at the following email address: <a href="mailto:admin@mc.gov.sg">admin@mc.gov.sg</a>
+
+and such notice shall be accompanied with reasons for exercising the right under Clause 4. This Clause 4.3 applies also to termination under Clause 4.2.
+
+#### 5.	Rights of Third Parties
+
+A person who is not a party to this Agreement shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
+
+#### 6.	Governing Law and Dispute Resolution
+
+6.1.    This Agreement shall be governed and construed in accordance with laws of Singapore.
+
+6.2.    Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in by arbitration administered by the Singapore International Arbitration Centre (**“SIAC”**) in Singapore in accordance with the Arbitration Rules of the SIAC (**"SIAC Rules"**) for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further: 
+<ul style="list-style-type: none;">
+    <li>6.2.1.	The seat of the arbitration shall be Singapore.</li>
+    <li>6.2.2.	The tribunal shall consist of one (1) arbitrator.</li>
+    <li>6.2.3.	The language of the arbitration shall be English.</li>
+</ul>
