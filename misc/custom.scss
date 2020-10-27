@@ -6,7 +6,7 @@
 $primary: {{- site.colors.primary-color -}}; 
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%); 
-{%- for media-color in site.colors.media-colors -%} 
+{%- for media-color in site.colors.media-colors -%};
     ${{- media-color.title -}}: {{- media-color.color -}}; 
 {%- endfor -%}
 
