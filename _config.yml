@@ -17,9 +17,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-collections:
-  left-nav-one:
-    output: false
 
 
 
@@ -41,14 +38,17 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
 description: test test
 google_analytics: UA-118989850-1
 
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
+staging: https://digimc-staging.netlify.app/,
+prod: https://digimc-prod.netlify.app/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
