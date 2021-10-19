@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-This Privacy Policy must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “Service”). In this Privacy Policy, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards).
+This Privacy Policy must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “Service”). In this Privacy Policy, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
 
 1. Insofar as the Service consists of or is provided to you through a website, please note that:
@@ -11,7 +11,7 @@ This Privacy Policy must be read in conjunction with the Terms of Use that accom
     1.2.  You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 
-2. We may request certain types of data from you in connection with your access or use of the Service. The data that may be requested include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Policy, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
+2. We may request or collect certain types of data from you in connection with your access or use of the Service. The data that may be requested/collected include those identified in the Annex herein. Your data may be stored in our servers, systems or devices, in the servers, systems or devices of our third party service providers or collaborators, or on your device, and may be used by us or our third party service providers or collaborators to facilitate your access or use of the Service. We or our third party service providers or collaborators may collect system configuration information and/or traffic information (such as an IP address) and/or use information or statistical information to operate, maintain or improve the Services or the underlying service of the third party service provider or collaborator. For the avoidance of doubt, in this Privacy Policy, a reference to a third party service provider or collaborator includes other third parties who provide a service or collaborate with our third party service provider or collaborator.
 
 3. If you provide us with personally identifiable data:
 
@@ -43,7 +43,7 @@ This Privacy Policy must be read in conjunction with the Terms of Use that accom
     <li>7.2. need more information on or access to data which you have provided to us in the past.</li>
     </ul>
     
-This version of the Privacy Policy is dated Feb 10 2020.
+This version of the Privacy Policy is dated October 19 2021.
 
 ### Annex
 
@@ -57,4 +57,4 @@ This version of the Privacy Policy is dated Feb 10 2020.
 
     c. Medical certificate data obtained from healthcare institution databases
 
-This Annex was last updated on Feb 10 2020.
+This Annex was last updated on October 19 2021.

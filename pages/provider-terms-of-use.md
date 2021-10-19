@@ -12,6 +12,8 @@ permalink: /provider-terms-of-use/
 
 1.4.  **If you do not agree to these Terms of Use, please do not use this Service or any part of this Service.**
 
+1.5.  If you are accessing or using the Service for and on behalf of another entity (such as your employer), you warrant and represent that you have the necessary authority to bind such entity to these Terms of Use.
+
 #### 2. Nature of Service
 
 Please see the Schedule for more information and terms concerning this Service.
@@ -66,6 +68,8 @@ Please see the Schedule for more information and terms concerning this Service.
 
 4.6.  For the avoidance of doubt, without prejudice to Clause 4.4, to the extent of any inconsistency between these Terms of Use and the Third Party Terms, the latter shall prevail provided nothing in the Third Party Terms increases the liability of GovTech beyond that stated in Clause 6. 
 
+4.7.	Without prejudice and in addition to the foregoing, GovTech shall not be responsible for your use of any software or service of a Third Party.
+
 #### 5. Your Consent to Access Functions of Your Device
 
 Use of the Service may require you to allow access by the Service to certain functions of your device, such as push notifications, the obtaining and/or sharing of your location, or the collection of data from you in connection with the Service. Please also see Clause 8 (Privacy Policy). Your use of the Service shall constitute your consent to the access by the Service of such functions of your device as may be reasonably required by the Service.
@@ -113,7 +117,14 @@ regardless of whether the Government has been advised of the possibility of such
 
 6.4.  You shall not rely on any part of the Service to claim or assert any form of legitimate expectation against GovTech, whether or not arising out of or in connection with GovTech’s roles and functions as a public authority.
 
-6.5  You agree to defend and indemnify and keep GovTech and its officers, employees, agents and contractors harmless against all liabilities, losses, damages, costs or expenses (including legal costs on an indemnity basis) howsoever arising out of or in connection with your access or use of the Service (including third party software or services) or your non-compliance with the Terms of Use, Third Party Terms or Incorporated Terms, whether or not you had been advised or informed of the nature or extent of such liabilities, losses, damages, costs or expenses. You warrant and represent that your access or use of the Service does not and will not breach or violate any laws, regulations, trade, economic and/or export sanctions (wherever in the world) applicable to you, and that you shall not transmit any malicious code, illegal, infringing or undesirable content or materials to GovTech or its agents or any Third Party.
+6.5.  You agree to defend and indemnify and keep GovTech and its officers, employees, agents and contractors harmless against all liabilities, losses, damages, costs or expenses (including legal costs on an indemnity basis) howsoever arising out of or in connection with your access or use of the Service (including third party software or services) or your non-compliance with the Terms of Use, Third Party Terms or Incorporated Terms, whether or not you had been advised or informed of the nature or extent of such liabilities, losses, damages, costs or expenses. You warrant and represent that your access or use of the Service does not and will not breach or violate any laws, regulations, trade, economic and/or export sanctions (wherever in the world) applicable to you, and that you shall not transmit any malicious code, illegal, infringing or undesirable content or materials to GovTech or its agents or any Third Party.
+
+6.6.	Without prejudice and in addition to GovTech’s other rights herein:
+
+<ul style="list-style-type: none;">
+  <li>6.6.1.	in no event shall GovTech’s total cumulative liability arising out of or in connection with these Terms of Use to you exceed the amount of fees or payment received by GovTech (and not paid or given to any Third Party by GovTech) from you for the Service in the 12 months preceding the date of the first cause of action; and</li>
+  <li>6.6.2.	no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.</li>
+</ul>
 
 #### 7. Hyperlinks
 
@@ -142,6 +153,10 @@ Subject to the rights of the Third Party set out in Clause 4.5, a person who is 
 
 10.2.  GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and these Terms of Use, without notifying you and without further reference to you. Your acceptance of these Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract.
 
+#### 10A. Severability
+
+If any term of these Terms of Use is held by a court or tribunal of competent jurisdiction to be invalid or unenforceable, then these Terms of Use, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included but, to the extent permissible, such invalid or unenforceable terms shall be deemed to have been replaced by terms that are (a) valid and enforceable and (b) express the intention or produce the result closest to the original intention of the invalid or unenforceable terms.
+
 #### 11. Governing Law and Dispute Resolution
 
 11.1. These Terms of Use shall be governed and construed in accordance with laws of Singapore.
@@ -158,7 +173,7 @@ Subject to the rights of the Third Party set out in Clause 4.5, a person who is 
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
-This version of the Terms of Use is dated February 10 2020.
+This version of the Terms of Use is dated October 19 2021.
 
 ### Schedule
 
@@ -183,7 +198,9 @@ This version of the Terms of Use is dated February 10 2020.
     <ul style="list-style-type: none;">
     <li>a. The Service is intended for use by healthcare providers (such as hospitals and clinics) and is offered only to an entity that represents its entire group of affiliated healthcare providers (which shall include all new affiliated healthcare providers from time to time). By using the Service, you warrant and represent that you are such an entity and will be liable for the acts and omissions of each such affiliate. You shall ensure that such affiliates comply with the Terms of Use. Any claim or action against GovTech arising out of or in connection with these Terms of Use or the Service shall be brought by you only, and not by your affiliates. </li>
     <li>b. You shall at all times ensure your (and your affiliates’) contract or agreement with the patient, insofar as it relates to the provision of DigiMC to patients, is consistent with the terms of DigiMC to patients and procures for GovTech, and maintains, GovTech’s rights thereunder. Such terms may be found at <a href="/privacy/">https://mc.gov.sg/privacy/</a>. You and your affiliates shall, in the alternative, ensure that the notice of the said terms is given to the patient prior to the use of DigiMC by you, your affiliates, or the patient.</li>
-    <li>c. You warrant and represent that you and your affiliates have complied and will continue to comply with all applicable laws, including laws concerning personal data protection, and that all necessary consent in respect of the provision of DigiMC to the patients has been obtained by you and your affiliates.</li>
-    <li>d. You may terminate your use of the Service for convenience by emailing GovTech at admin@mc.gov.sg with at least seven (7) working days’ notice of the same. In the notice, it would be appreciated if you included your reason(s) for termination.</li>
-    <li>e. Nothing in these Terms of Use or the Service creates any relationship of agency, partnership, joint venture or other similar relationship between GovTech and you or your affiliates.</li>
-    <li>f. “Affiliates” and “affiliated healthcare providers” include entities that are corporations that are related to you under the Companies Act (Cap. 50), or any entity which effectively controls, is effectively controlled by, or is effectively controlled by an entity which effectively controls, you; and in this regard, an entity has effective control over another entity if the former entity owns or control, directly or indirectly, at least fifty per cent (50%) of the outstanding shares or securities (representing the right to vote for the election of directors or other managing authority) in the latter entity or has the power to direct the management and the policies of the latter entity whether through the ownership of voting capital by contract or otherwise.</li>
+    <li>c. You warrant and represent that you have complied and will continue to comply with all applicable laws, including laws concerning personal data protection, and that all necessary consent in respect of the provision or display of DigiMC or MCs generated by DigiMC to the patients has been obtained by you and your affiliates. This shall include the necessary consent from the patients to display the MCs on applications or platforms external to the Service (see subparagraph (d) below).</li>
+    <li>d. The Service may provide a function that allows MCs generated by the Service to be displayed on (a) another application or platform (such as LifeSG) provided by a Singapore public sector agency (including GovTech) and (b) any other application or platform selected by you (such as Healthhub) ( each of (a) and (b) shall be referred to as an “External Application”). Without prejudice to sub-paragraphs (b) and (c), you shall obtain consent from the patients to allow GovTech to share their data with the External Application provider, and you also hereby consent to GovTech sharing any of your information or assets in such medical certificates with the External Application provider. </li>
+    <li>e. Where the External Application is selected by you, you shall be responsible for the External Application provider's compliance with these Terms of Use and the provider's acts and omissions shall be deemed to be your acts and omissions. Additionally, you (not GovTech) shall assume sole liability to the provider for any issue arising out of or in connection with the Service or these Terms of Use, and for any of GovTech’s acts, omissions, or defaults.</li>
+    <li>f. You may terminate your use of the Service for convenience by emailing GovTech at admin@mc.gov.sg with at least seven (7) working days’ notice of the same. In the notice, it would be appreciated if you included your reason(s) for termination.</li>
+    <li>g. Nothing in these Terms of Use or the Service creates any relationship of agency, partnership, joint venture or other similar relationship between GovTech and you or your affiliates.</li>
+    <li>h. “Affiliates” and “affiliated healthcare providers” include entities that are corporations that are related to you under the Companies Act (Cap. 50), or any entity which effectively controls, is effectively controlled by, or is effectively controlled by an entity which effectively controls, you; and in this regard, an entity has effective control over another entity if the former entity owns or control, directly or indirectly, at least fifty per cent (50%) of the outstanding shares or securities (representing the right to vote for the election of directors or other managing authority) in the latter entity or has the power to direct the management and the policies of the latter entity whether through the ownership of voting capital by contract or otherwise.</li>
