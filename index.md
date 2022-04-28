@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MC.GOV.SG | Open Government Products
+title: MC.GOV.SG \| Open Government Products
 description: View your official medical certificate online
 image: /images/logo.svg
 permalink: /
