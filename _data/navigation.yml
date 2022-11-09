@@ -1,5 +1,4 @@
 logo: /images/logo.svg
-
 links:
   - title: Learn More
     url: /learn-more/
@@ -9,5 +8,3 @@ links:
     url: /faq/
   - title: Employer FAQ
     url: /employer-faq/
-  - title: Support
-    url: https://go.gov.sg/digitalmc-support
