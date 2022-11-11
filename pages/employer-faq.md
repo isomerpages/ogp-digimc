@@ -44,4 +44,4 @@ Notwithstanding that MCs can only be submitted to employers through patients’ 
 
 ### My company is under an insurance panel of clinics with private general practitioners (GPs). Can they also issue DigiMC?
 
-Currently, only public healthcare institutions are issuing DigiMC but we are keen to have GPs on board DigiMC in the long run. You may indicate the specific insurance panel your company is using via the support form so that we may reach out to see how we can collaborate with the insurance panel.
+A number of GPs have already onboarded to DigiMC. If the clinics in your company's panel do not currently use it, you may indicate the specific insurance panel your company is using via the support form so that we may reach out to them to explore their usage of DigiMC.
