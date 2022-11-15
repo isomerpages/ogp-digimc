@@ -44,7 +44,7 @@ google_analytics: UA-118989850-1
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
-staging: https://digimc-staging.netlify.app/,
+staging: https://digimc-staging.netlify.app/
 prod: https://digimc-prod.netlify.app/
 plugins:
   - jekyll-feed
