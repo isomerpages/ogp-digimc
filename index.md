@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: MC.GOV.SG \| Open Government Products
+title: Digital MC
 description: View your official medical certificate online
-image: /images/logo.svg
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
@@ -35,3 +35,4 @@ sections:
       button: Contact Us
       url: https://go.gov.sg/digitalmc-support
 ---
+
