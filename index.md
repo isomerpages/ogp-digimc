@@ -4,9 +4,7 @@ title: MC.GOV.SG \| Open Government Products
 description: View your official medical certificate online
 image: /images/logo.svg
 permalink: /
-notification: We are aware of an issue where MCs are dated 8h ahead of time. If
-  your MC is affected, please <a href="https://go.gov.sg/amend-mc-date-time">put
-  up a request</a>
+notification: ""
 sections:
   - hero:
       title: Digital MC
