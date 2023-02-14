@@ -29,10 +29,4 @@ sections:
         employer has queries, check out our Employer FAQ linked below.
       image: /images/step3_send_hr.svg
       alt: Stylised drawing of an envelope with an MC
-  - infobar:
-      title: Have more questions?
-      description: We want to hear your questions and feedback!
-      button: Contact Us
-      url: https://go.gov.sg/digitalmc-support
 ---
-
