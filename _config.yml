@@ -53,6 +53,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 linkedin-insights: ""
