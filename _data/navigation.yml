@@ -1,10 +1,10 @@
 logo: /images/logo.svg
 links:
   - title: Learn More
-    url: /learn-more/
+    url: /learn-more
   - title: Institutions
-    url: /institutions/
+    url: /institutions
   - title: FAQ
-    url: /faq/
+    url: /faq
   - title: Employer FAQ
-    url: /employer-faq/
+    url: /employer-faq
