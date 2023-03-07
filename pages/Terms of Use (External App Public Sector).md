@@ -1,7 +1,9 @@
 ---
-title: Terms of Use
-permalink: /terms-of-use/
+title: Terms of Use (External App Public Sector)
+permalink: /external-app-public-sector-terms-of-use/
+description: ""
 ---
+
 #### 1. General
 
 1.1.	These Terms of Use govern your access to and use of our services, including the application (whether as software or as a website or otherwise), its contents, push notifications and all other accompanying materials as identified in the Schedule below (collectively, the **"Service”**). 
@@ -12,7 +14,7 @@ permalink: /terms-of-use/
 
 1.4.  **If you do not agree to these Terms of Use, please do not use this Service or any part of this Service.**
 
-1.5.	If you are accessing or using the Service for and on behalf of another entity (such as your employer), you warrant and represent that you have the necessary authority to bind such entity to these Terms of Use.
+1.5.  If you are accessing or using the Service for and on behalf of another entity (such as your employer), you warrant and represent that you have the necessary authority to bind such entity to these Terms of Use.
 
 #### 2. Nature of Service
 
@@ -107,9 +109,9 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 <ul style="list-style-type: none;">
   <li>6.2.1. your access to or use of this Service, or any part thereof;</li>
   <li>6.2.2. any loss of access to our use of this Service or any part of this Service,  howsoever caused;</li>
-  <li>6.2.3. any inaccuracy or incompleteness in, or errors or omissions in the  transmission of, the Service;</li>
-  <li>6.2.4. any delay or interruption in the transmission of the Service, whether  caused by delay or interruption in transmission over the internet or  otherwise; or</li>
-  <li>6.2.5. any decision made or action taken by you or any third party in reliance  upon the Service,
+  <li>6.2.3. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Service;</li>
+  <li>6.2.4. any delay or interruption in the transmission of the Service, whether caused by delay or interruption in transmission over the internet or  otherwise; or</li>
+  <li>6.2.5. any decision made or action taken by you or any third party in reliance upon the Service,
 regardless of whether the Government has been advised of the possibility of such damage or loss.</li>
 </ul>
 
@@ -141,7 +143,7 @@ regardless of whether the Government has been advised of the possibility of such
 
 #### 8. Privacy Policy
 
-You also agree to the terms of the <a href="/privacy/">Privacy Policy</a> for this Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
+You also agree to the terms of the <a href="/provider-privacy/">Privacy Policy</a> for this Service as may be amended from time to time. The Privacy Policy will form part of these Terms of Use.
 
 #### 9. Rights of Third Parties
 
@@ -164,13 +166,12 @@ If any term of these Terms of Use is held by a court or tribunal of competent ju
 11.2. Subject to Clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
 
 11.3. GovTech may, at its sole discretion, refer any dispute referred to in Clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre ("SIAC") in Singapore in accordance with the Arbitration Rules of the SIAC ("SIAC Rules") for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further:
-
-<ul style="list-style-type: none;">
+  <ul style="list-style-type: none;">
   <li>11.3.1. The seat of the arbitration shall be Singapore.</li>
   <li>11.3.2. The tribunal shall consist of one (1) arbitrator.</li>
   <li>11.3.3. The language of the arbitration shall be English.</li>
   <li>11.3.4. All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.</li>
-</ul>
+  </ul>
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
 
@@ -178,20 +179,11 @@ This version of the Terms of Use is dated October 19 2021.
 
 ### Schedule
 
-1. Name of Service: Digital MC
+1. Name of Service: DigiMC (External App - Public Sector)
 
 2. Nature of Service
 
-   <ul style="list-style-type: none;">
-   <li>a. This Service facilitates the transmission of medical certificates in digital format.</li>
-   <li>b. Separate terms (and not these Terms of Use) govern the relationship between you and your healthcare provider, including your receipt of the medical certificate from your healthcare provider.</li>
-   <li>c. GovTech is <strong>NOT</strong> responsible for the quality of and any potential errors in the contents of the medical certificate.</li>
-   <li>d. Any issues concerning the contents of the medical certificate should be directed to the respective healthcare provider.</li>
-   <li>e.	Please note that medical certificates generated by the Service may also be made available or displayed on (i) the Healthhub application (applicable to medical certificates created by certain healthcare providers only), (ii) any other application or platform (such as LifeSG) provided by a Singapore public sector agency (including GovTech), or (iii) any other application or platform selected by your healthcare provider (each of (i), (ii) and (iii) shall be referred to as an “External Application”) and hence you consent to share your data with the External Application provider. Use of the External Application may be subject to additional terms and conditions and/or privacy policies of the External Application provider.</li>
-   </ul>
-
-3. Third Party software/services and Third Party Terms
-
-<ul style="list-style-type: none;">
-  <li>a. Comodo CA Limited (Relying Party Agreement) (<a href="https://www.comodo.com/repository/docs/relying_party.php" target="_blank">https://www.comodo.com/repository/docs/relying_party.php</a>)</li>
-</ul>
+  <ul style="list-style-type: none;">
+    <li>a.	This Service contains DigiMC APIs that allows digital MCs which are generated from data from healthcare providers to be displayed via your app. It is intended for public sector agencies only and must be read together with the <a href="/external-app-public-sector-memorandum/">Public Sector Memorandum</a>.
+    </li>
+  </ul>

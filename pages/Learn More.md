@@ -1,7 +1,9 @@
 ---
 title: Learn More
 permalink: /learn-more/
+description: ""
 ---
+
 
 ### What a Digital MC looks like
 

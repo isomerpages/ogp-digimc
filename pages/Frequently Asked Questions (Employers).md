@@ -1,7 +1,10 @@
 ---
 permalink: /employer-faq/
 title: Frequently Asked Questions (Employers)
+description: ""
 ---
+
+
 ### What is considered a legitimate MC?
 
 MCs are legitimate as long as they are issued by SMC-registered doctors. As the MC is a computer-generated MC, the doctor’s signature is not required. The doctor’s name and MCR number are stated on the DigiMC. To further cement its authenticity, ensure that the digital MC is issued from the ‘https://mc.gov.sg’ domain.

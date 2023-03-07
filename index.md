@@ -4,7 +4,8 @@ title: Digital MC
 description: View your official medical certificate online
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: We are aware of an issue affecting some MCs issued on 7th March
+  that are 8h ahead of time.
 sections:
   - hero:
       title: Digital MC

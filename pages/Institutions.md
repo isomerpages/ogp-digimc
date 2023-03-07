@@ -1,7 +1,9 @@
 ---
 title: Institutions
 permalink: /institutions/
+description: ""
 ---
+
 
 ### DigiMC is supported by selected clinics at the following institutions
 

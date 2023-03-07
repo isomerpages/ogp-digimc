@@ -1,7 +1,9 @@
 ---
 title: Public Sector Memorandum
 permalink: /external-app-public-sector-memorandum/
+description: ""
 ---
+
 #### 1. Introduction
 
 This Memorandum governs your access to and use of the DigiMC APIs (“Service”), offered by the Government Technology Agency (“GovTech”). 

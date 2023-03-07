@@ -1,7 +1,9 @@
 ---
 permalink: /faq/
 title: Frequently Asked Questions
+description: ""
 ---
+
 ### What are digital MCs?
 
 A digital medical certificate (MC) is the online version of a paper medical certificate (MC). Digital MC can be accessed via a unique link under the main mc.gov.sg domain, for example, <https://www.mc.gov.sg/mc/abc12345678>.

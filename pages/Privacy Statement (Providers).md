@@ -1,7 +1,9 @@
 ---
 title: Privacy Statement (Providers)
 permalink: /provider-privacy/
+description: ""
 ---
+
 This Privacy Policy must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “Service”). In this Privacy Policy, “Public Sector Entities” means the Government (including its ministries, departments and organs of state) and public authorities (such as statutory boards) and “personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
 
 
