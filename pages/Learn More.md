@@ -7,4 +7,4 @@ description: ""
 
 ### What a Digital MC looks like
 
-![Screenshot of a Digital MC with components labelled](/images/DigiMC-Screenshot.png)
+![Screenshot of a Digital MC with components labelled](/images/digimc-screenshot.png)
