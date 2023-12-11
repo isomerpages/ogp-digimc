@@ -44,8 +44,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: ""
 google_analytics: UA-118989850-1
-staging: https://digimc-staging.netlify.app/
-prod: https://digimc-prod.netlify.app/
+staging: https://staging.d2w780ihmxcay3.amplifyapp.com/
+prod: https://master.d2w780ihmxcay3.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
