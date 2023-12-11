@@ -4,7 +4,8 @@ title: Digital MC
 description: View your official medical certificate online
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: You may face issues loading your MC due a recent site upgrade.
+  Please refresh to receive the latest version.
 sections:
   - hero:
       title: Digital MC
