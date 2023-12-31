@@ -4,7 +4,9 @@ title: Digital MC
 description: View your official medical certificate online
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: We will be performing scheduled maintenance on DigiMC tonight,
+  from 1st Jan 1:30 AM till 2:30 AM. MCs issued during this period may take an
+  additional hour to be accessible.
 sections:
   - hero:
       title: Digital MC
