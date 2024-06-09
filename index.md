@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Digital MC
-description: View your official medical certificate online
-image: /images/isomer-logo.svg
+description: The official digital Medical Certificate platform by the Singapore Government
+image: /images/logo.svg
 permalink: /
 notification: ""
 sections:
