@@ -4,6 +4,7 @@ permalink: /how-it-works/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,4 +50,5 @@ has queries, check out our Employer FAQ.</p>
 </tr>
 </tbody>
 </table>
+<h3></h3>
 <p></p>
