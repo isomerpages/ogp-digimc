@@ -27,7 +27,21 @@ sections:
       description: across 21 Public Healthcare Institutions and 600+ GPs
       image: /images/singhealth_partners.png
       alt: Singhealth partner logos
-  - resources:
+  - textcards:
       title: Learn More
-      id: resources
+      id: textcards
+      description: Curious about how it works? Want to begin using DigiMC?
+      cards:
+        - title: For clinicians
+          description: How is this different from the MCs I currently issue?
+          linktext: Learn more
+          url: ""
+        - title: For patients
+          description: What should I expect when receiving a DigiMC?
+          linktext: Learn more
+          url: /how-it-works
+        - title: For employers
+          description: Card description
+          linktext: Learn more
+          url: /employer-faq
 ---
