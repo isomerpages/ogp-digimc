@@ -31,6 +31,11 @@ including:</p>
 <p>Can send it immediately on the same day I visit doctor</p>
 </li>
 </ul>
+<h3>What does a DigiMC look like?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Screenshot of a Digital MC with components labelled" src="/images/digimc-screenshot.png">
+</div>
+<p></p>
 <h3>Can I still get a paper MC if I want to?</h3>
 <p>Most providers still offer paper MCs, available on request.</p>
 <h3>Can my employer or other people access my digital MC without my consent?</h3>
