@@ -41,7 +41,7 @@ sections:
           linktext: Learn more
           url: /how-it-works
         - title: For employers
-          description: Card description
+          description: How should I handle DigiMCs in my workflow?
           linktext: Learn more
           url: /employer-faq
 ---
