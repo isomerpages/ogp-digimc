@@ -32,10 +32,10 @@ sections:
       id: textcards
       description: Curious about how it works? Want to begin using DigiMC?
       cards:
-        - title: For clinicians
+        - title: For providers
           description: How is this different from the MCs I currently issue?
           linktext: Learn more
-          url: ""
+          url: /provider-faq
         - title: For patients
           description: What should I expect when receiving a DigiMC?
           linktext: Learn more
