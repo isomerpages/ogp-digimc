@@ -23,7 +23,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <h3>Step 2</h3>
 <p>You will receive an SMS containing an URL to the digital MC. Key in your
 DOB to do a one-time unlock on the URL.</p>
@@ -43,7 +42,6 @@ DOB to do a one-time unlock on the URL.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <h3>Step 3</h3>
 <p>Forward the URL to your Employer or Company HR department. If your employer
 has queries, check out our Employer FAQ.</p>
