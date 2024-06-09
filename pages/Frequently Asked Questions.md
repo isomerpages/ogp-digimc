@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>What are digital MCs?</h3>
 <p>A digital medical certificate (MC) is the online version of a paper medical
-certificate (MC). DigiMC can be accessed via a unique link under the <strong>mc.gov.sg</strong> domain.</p>
+certificate (MC). DigiMC can be accessed via a unique link under the <strong><a href="https://mc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc.gov.sg</a></strong> domain.</p>
 <h3>Why are we digitalising MCs?</h3>
 <p>It can be inconvenient to submit a paper MC to the human resource department
 or supervisor. Over the past 5 years, digital MCs have replaced hardcopies
@@ -47,7 +47,7 @@ may choose to forward it to your employer or relevant parties.</p>
 The doctor’s signature is in the form of his/her name in block letters
 on the digital MC together with the doctor’s MCR number. To further cement
 its authenticity, ensure that the digital MC is issued from the domain
-<a href="mc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc.gov.sg</a>. If you need further clarification, please call the issuing
+<a href="https://mc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc.gov.sg</a>. If you need further clarification, please call the issuing
 healthcare institution.</p>
 <h3>What if my employer does not recognise my digital MC?</h3>
 <p>You may inform them to check out <a href="/employer-faq" rel="noopener noreferrer nofollow" target="_blank">FAQ for employers</a>.</p>
