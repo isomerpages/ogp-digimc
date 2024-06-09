@@ -7,7 +7,7 @@ contacts:
       - phone: ""
       - email: mc@open.gov.sg
       - other: ""
-    title: ""
+    title: For all enquiries
 agency_name: DigiMC
 feedback: ""
 ---
