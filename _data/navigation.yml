@@ -1,9 +1,5 @@
 logo: /images/logo.svg
 links:
-  - title: Learn More
-    url: /learn-more
-  - title: Institutions
-    url: /institutions
   - title: FAQ
     url: /faq
   - title: Employer FAQ
