@@ -51,7 +51,7 @@ we have worked with several major clinic management systems and telemedicine
 systems, which provide the linkage within your CMS workflow.</p>
 <p>Ask your CMS provider if they provide DigiMC integration!</p>
 <h3>As a CMS operator, how can I integrate with DigiMC?</h3>
-<p>We are happy to integrate with private providers - we already issue MCs
+<p>We are happy to integrate with private providers: we already issue MCs
 on behalf of ~700 clinics island-wide.</p>
 <p>We do not charge for usage, as we view digital MCs as a public good in
 Singapore. The API specs are very simple - most partners have managed to
