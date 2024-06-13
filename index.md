@@ -23,11 +23,13 @@ sections:
         - title: Patients
           description: Get MCs on-the-go, without waiting. Your MCs never get lost.
   - infobar:
-      title: Recognisable legitimacy
+      title: Hosted at .gov.sg
       id: infobar
+      description: Unlike image-based alternatives, DigiMCs  are tamper-proof and are
+        immediately recognisable as legitimate.
   - infopic:
       title: Trusted and used widely
-      description: across 21 Public Healthcare Institutions and 600+ GPs
+      description: across 600+ GPs and 21 Public Healthcare Institutions
       image: /images/singhealth_partners.png
       alt: Singhealth partner logos
   - textcards:
