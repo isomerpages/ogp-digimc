@@ -1,11 +1,11 @@
 logo: /images/logo.svg
 links:
-  - title: FAQ
+  - title: fAQ
     url: /faq
-  - title: Employer FAQ
+  - title: Employers
     url: /employer-faq
-  - title: Clinician FAQ
-    url: /clinician-faq
+  - title: Doctors
+    url: /provider-faq
   - title: How it works
     url: /how-it-works
   - title: Terms of Use
