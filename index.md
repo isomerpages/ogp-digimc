@@ -15,13 +15,16 @@ sections:
       title: A digital MC benefits everyone
       id: infocols
       infoboxes:
-        - title: Patients
-          description: Get MCs on-the-go, without waiting. Your MCs never get lost.
         - title: Clinics
           description: Save doctor's time since no signature is required. Remove work of
             (re-)printing MCs for patients.
         - title: Employers
           description: Be assured of MC’s legitimacy via .gov.sg domain
+        - title: Patients
+          description: Get MCs on-the-go, without waiting. Your MCs never get lost.
+  - infobar:
+      title: Recognisable legitimacy
+      id: infobar
   - infopic:
       title: Trusted and used widely
       description: across 21 Public Healthcare Institutions and 600+ GPs
