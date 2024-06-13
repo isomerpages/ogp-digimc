@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Digital MC
       subtitle: Issue official and verifiable medical certificates
-      background: /images/hero-banner.png
-      variant: center
+      background: /images/Test.png
+      variant: image
   - infocols:
       title: A digital MC benefits everyone
       id: infocols
