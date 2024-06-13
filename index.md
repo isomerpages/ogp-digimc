@@ -19,14 +19,10 @@ sections:
           description: Save doctor's time since no signature is required. Remove work of
             (re-)printing MCs for patients.
         - title: Employers
-          description: Be assured of MC’s legitimacy via .gov.sg domain
+          description: Unlike image-based alternatives, DigiMCs  are tamper-proof and are
+            immediately recognisable as legitimate.
         - title: Patients
           description: Get MCs on-the-go, without waiting. Your MCs never get lost.
-  - infobar:
-      title: Hosted at .gov.sg
-      id: infobar
-      description: Unlike image-based alternatives, DigiMCs  are tamper-proof and are
-        immediately recognisable as legitimate.
   - infopic:
       title: Trusted and used widely
       description: across 600+ GPs and 21 Public Healthcare Institutions
