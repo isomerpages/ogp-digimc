@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Digital MC
       subtitle: Issue official and verifiable medical certificates
-      background: /images/Hero_6.png
+      background: /images/hero.png
       variant: image
   - infocols:
       title: A digital MC benefits everyone
