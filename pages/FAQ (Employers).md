@@ -12,9 +12,9 @@ doctors.</p>
 <p>As the MC is computer-generated, the doctor’s wet-ink signature is not
 required. Instead, the doctor’s name and MCR number are stated on our DigiMCs.</p>
 <h3>How do I verify that a DigiMC is authentic?</h3>
-<p>For MCs issued through our platform, ensure that the URL is from the <strong>mc.gov.sg</strong> domain.
-This guarantees that the MC has not been been tampered with, and has been
-issued by a doctor.</p>
+<p>For MCs issued through our platform, ensure that the URL is from the
+<a href="http://mc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc.gov.sg</a>domain. This guarantees that the MC has not been been tampered
+with, and has been issued by a doctor.</p>
 <p>For DigiMCs that have been printed or downloaded, you will find a link
 and QR code at the bottom of the MC. You may enter the link into a web
 browser or scan the QR code to check if the downloaded version corresponds
@@ -54,5 +54,6 @@ option etc.</p>
 <h3>Can DigiMC be integrated with my HR IT system?</h3>
 <p>Notwithstanding that MCs can only be submitted to employers through patients’
 consent, we are open to exploring integrating with HR systems. Please contact
-us through our support form to indicate your interest.</p>
+us at <a href="mailto:mc@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc@open.gov.sg</a> to
+indicate your interest.</p>
 <p></p>
