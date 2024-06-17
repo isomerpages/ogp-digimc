@@ -16,8 +16,8 @@ sections:
       id: infocols
       infoboxes:
         - title: Providers
-          description: Save doctor's time since no signature is required. Remove work of
-            (re-)printing MCs for patients.
+          description: Free up doctors' time by eliminating the need for signatures. No
+            more (re-)printing MCs for patients.
         - title: Employers
           description: Unlike image-based alternatives, DigiMCs  are tamper-proof and are
             immediately recognisable as legitimate.
