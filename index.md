@@ -15,7 +15,7 @@ sections:
       title: A digital MC benefits everyone
       id: infocols
       infoboxes:
-        - title: Clinics
+        - title: Providers
           description: Save doctor's time since no signature is required. Remove work of
             (re-)printing MCs for patients.
         - title: Employers
@@ -37,12 +37,12 @@ sections:
           description: How is this different from the MCs I currently issue?
           linktext: Learn more
           url: /provider-faq
-        - title: For patients
-          description: What should I expect when receiving a DigiMC?
-          linktext: Learn more
-          url: /how-it-works
         - title: For employers
           description: How should I handle DigiMCs in my workflow?
           linktext: Learn more
           url: /employer-faq
+        - title: For patients
+          description: What should I expect when receiving a DigiMC?
+          linktext: Learn more
+          url: /how-it-works
 ---
