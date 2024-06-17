@@ -1,32 +1,48 @@
 ---
 layout: homepage
 title: Digital MC
-description: View your official medical certificate online
-image: /images/isomer-logo.svg
+description: The official digital Medical Certificate platform by the Singapore Government
+image: /images/logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
       title: Digital MC
-      subtitle: View your official medical certificate online
-      background: /images/hero-banner.png
-  - infobar:
-      title: How It Works
+      subtitle: Issue official and verifiable medical certificates
+      background: /images/hero.png
+      variant: image
+  - infocols:
+      title: A digital MC benefits everyone
+      id: infocols
+      infoboxes:
+        - title: Providers
+          description: Free up doctors' time by eliminating the need for signatures. No
+            more (re-)printing MCs for patients.
+        - title: Employers
+          description: Unlike image-based alternatives, DigiMCs  are tamper-proof and are
+            immediately recognisable as legitimate.
+        - title: Patients
+          description: Get MCs on-the-go, without waiting. Your MCs never get lost.
   - infopic:
-      title: Step 1
-      description: Your doctor will issue a digital Medical Certificate (MC)
-      image: /images/step1_see_doc.svg
-      alt: Stylised drawing of a doctor with stethoscope
-  - infopic:
-      title: Step 2
-      description: You will receive an SMS containing an URL to the digital MC. Key in
-        your DOB to do a one-time unlock on the URL.
-      image: /images/step2_sms_link.svg
-      alt: Stylised drawing of a phone with a new SMS notification
-  - infopic:
-      title: Step 3
-      description: Forward the URL to your Employer or Company HR department. If your
-        employer has queries, check out our Employer FAQ linked below.
-      image: /images/step3_send_hr.svg
-      alt: Stylised drawing of an envelope with an MC
+      title: Trusted and used widely
+      description: across 600+ GPs and 21 Public Healthcare Institutions
+      image: /images/singhealth_partners.png
+      alt: Singhealth partner logos
+  - textcards:
+      title: Learn More
+      id: textcards
+      description: Curious about how it works? Want to begin using DigiMC?
+      cards:
+        - title: For providers
+          description: How is this different from the MCs I currently issue?
+          linktext: Learn more
+          url: /provider-faq
+        - title: For employers
+          description: How should I handle DigiMCs in my workflow?
+          linktext: Learn more
+          url: /employer-faq
+        - title: For patients
+          description: What should I expect when receiving a DigiMC?
+          linktext: Learn more
+          url: /how-it-works
 ---

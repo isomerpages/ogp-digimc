@@ -1,10 +1,12 @@
 logo: /images/logo.svg
 links:
-  - title: Learn More
-    url: /learn-more
-  - title: Institutions
-    url: /institutions
   - title: FAQ
     url: /faq
-  - title: Employer FAQ
+  - title: Employers
     url: /employer-faq
+  - title: Providers
+    url: /provider-faq
+  - title: How it works
+    url: /how-it-works
+  - title: Terms of Use
+    url: /terms-of-use

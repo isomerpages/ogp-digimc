@@ -1,5 +1,5 @@
 title: Digital MC
-url: https://www.mc.gov.sg
+url: https://mc.gov.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#2C4EB2"
@@ -42,7 +42,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: ""
+description: The official digital Medical Certificate platform by the Singapore Government
 google_analytics: UA-118989850-1
 staging: https://staging.d2w780ihmxcay3.amplifyapp.com/
 prod: https://master.d2w780ihmxcay3.amplifyapp.com/
@@ -52,8 +52,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.svg
 is_government: true
 facebook-pixel: ""
 linkedin-insights: ""
 google_analytics_ga4: ""
+resources_name: learn-more
