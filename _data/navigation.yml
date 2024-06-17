@@ -1,10 +1,10 @@
 logo: /images/logo.svg
 links:
-  - title: fAQ
+  - title: FAQ
     url: /faq
   - title: Employers
     url: /employer-faq
-  - title: Doctors
+  - title: Providers
     url: /provider-faq
   - title: How it works
     url: /how-it-works
