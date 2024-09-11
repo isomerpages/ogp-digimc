@@ -61,12 +61,15 @@ which has been sent to you via SMS. All your DigiMCs will appear in the
 same SMS conversation and you can refer to that SMS conversation to find
 a previous DigiMC.</p>
 <h3>What if I do not receive my SMS link to the digital MC after seeing the doctor?</h3>
-<p>The SMS is handled by your doctor's hospital or clinic. Do reach out to
-them - they can often assist you and resend the link.</p>
+<p>The SMS is handled by your doctor's hospital or clinic. Reach out to them
+directly - they can often assist you and resend the link. Our team is often
+unable to assist in such situations, as we have no visibility over how
+the MC is distributed.</p>
 <h3>I have received the SMS but the URL does not work. Who can I contact for help?</h3>
-<p>Please contact us a <a href="mc@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc@open.gov.sg</a>, and we will follow up on your
-request promptly. While waiting for our response, please check the internet
-connection, or test the link on another internet-enabled device.</p>
+<p>Please contact us with <a href="https://form.gov.sg/66d817ca2c2279a412c57e86" rel="noopener nofollow" target="_blank">this form</a>,
+and we will follow up on your request promptly. While waiting for our response,
+please check the internet connection, or test the link on another internet-enabled
+device.</p>
 <h3>Is there an option to send to my email address instead?</h3>
 <p>As most healthcare institutions request for the patient’s phone number
 during the registration process, but not their email address, you may share
