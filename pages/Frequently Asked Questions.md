@@ -5,9 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3>What are digital MCs?</h3>
-<p>A digital medical certificate (MC) is the online version of a paper medical
-certificate (MC). DigiMC can be accessed via a unique link under the <strong><a href="https://mc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc.gov.sg</a></strong> domain.</p>
-<h3>Why are we digitalising MCs?</h3>
+<p>These are MCs issued by your doctor. A digital medical certificate (MC)
+is the online version of a paper medical certificate (MC). DigiMC can be
+accessed via a unique link under the <strong><a href="https://mc.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc.gov.sg</a></strong> domain.
+You can get a digital MC by visiting any doctor of your choice and requesting
+for one.</p>
+<h3>Where can I find my digital MC?</h3>
+<p>After a consultation with your doctor, once your doctor has created an
+MC for you, you will receive an SMS with a link to your digital MC. If
+you still have not received your SMS with a link to your MC, please get
+in touch with your doctor. The DigiMC team is unable to assist in such
+situations, as we have no visibility over how the MC is distributed.</p>
+<p></p>
+<h3>I need sick leave immediately. How can I get an MC?</h3>
+<p>Digital MCs are issued by doctors. Meet a doctor near you to get an MC.
+<br>You can request your doctor for a digital MC.</p>
+<p></p>
+<h3>What types of leave can doctors issue DigiMC for?</h3>
+<p>DigiMC can be issued for the following leave types: Hospitalization leave,
+Outpatient sick leave, Maternity leave, Sterilization leave, Time chit.</p>
+<h3>What does a DigiMC look like?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Screenshot of a Digital MC with components labelled" src="/images/digimc-screenshot.png">
+</div>
+<h3>Why are we digitizing MCs?</h3>
 <p>It can be inconvenient to submit a paper MC to the human resource department
 or supervisor. Over the past 5 years, digital MCs have replaced hardcopies
 as the new norm.</p>
@@ -31,10 +52,7 @@ including:</p>
 <p>Can send it immediately on the same day I visit doctor</p>
 </li>
 </ul>
-<h3>What does a DigiMC look like?</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Screenshot of a Digital MC with components labelled" src="/images/digimc-screenshot.png">
-</div>
+<h3></h3>
 <p></p>
 <h3>Can I still get a paper MC if I want to?</h3>
 <p>Most providers still offer paper MCs, available on request.</p>
@@ -81,6 +99,4 @@ to this website or contact us via the support form if they have further
 clarifications about DigiMC. For other clarifications on other medical
 records or documents, please contact the healthcare institution you visited
 instead.</p>
-<h3>What types of leave can healthcare institutions issue DigiMC for?</h3>
-<p>DigiMC can be issued for the following leave types: Hospitalisation leave,
-Outpatient sick leave, Maternity leave, Sterilisation leave, Time chit.</p>
+<p></p>

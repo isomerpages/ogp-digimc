@@ -4,6 +4,13 @@ permalink: /provider-faq/
 variant: tiptap
 description: ""
 ---
+<h3></h3>
+<h3>As a GP, how can I start using DigiMC?</h3>
+<p>At the moment, we do not allow doctors to issue DigiMCs directly. Instead,
+we work with several major clinic management systems and telemedicine systems,
+which provide the linkage within your CMS workflow.</p>
+<p>Ask your CMS provider if they provide DigiMC integration already!</p>
+<p></p>
 <h3>Why should I issue digital MCs?</h3>
 <p>Over the past 5 years, digital MCs have replaced hardcopies as the new
 norm. Digitisation eliminates the need for physical storage, allows medical
@@ -45,11 +52,6 @@ allows employers to verify the original, online version.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Screenshot of a Digital MC with components labelled" src="/images/digimc-screenshot.png">
 </div>
-<h3>As a GP, how can I start using DigiMC?</h3>
-<p>At the moment, we do not allow doctors to issue DigiMCs directly. Instead,
-we have worked with several major clinic management systems and telemedicine
-systems, which provide the linkage within your CMS workflow.</p>
-<p>Ask your CMS provider if they provide DigiMC integration!</p>
 <h3>As a CMS operator, how can I integrate with DigiMC?</h3>
 <p>We are happy to integrate with private providers: we already issue MCs
 on behalf of ~700 clinics island-wide.</p>
