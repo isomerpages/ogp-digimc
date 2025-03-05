@@ -45,4 +45,8 @@ sections:
           description: How should I handle DigiMCs in my workflow?
           linktext: Learn more
           url: /employer-faq
+  - resources:
+      title: Still have questions?
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
