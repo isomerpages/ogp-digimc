@@ -33,6 +33,10 @@ sections:
       id: textcards
       description: Curious about how it works? Want to begin using DigiMC?
       cards:
+        - title: For patients
+          description: What should I expect when receiving a DigiMC?
+          linktext: Learn more
+          url: /how-it-works
         - title: For providers
           description: How is this different from the MCs I currently issue?
           linktext: Learn more
@@ -41,8 +45,4 @@ sections:
           description: How should I handle DigiMCs in my workflow?
           linktext: Learn more
           url: /employer-faq
-        - title: For patients
-          description: What should I expect when receiving a DigiMC?
-          linktext: Learn more
-          url: /how-it-works
 ---
