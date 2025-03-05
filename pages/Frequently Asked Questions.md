@@ -22,8 +22,8 @@ situations, as we have no visibility over how the MC is distributed.</p>
 <br>You can request your doctor for a digital MC.</p>
 <p></p>
 <h3>What types of leave can doctors issue DigiMC for?</h3>
-<p>DigiMC can be issued for the following leave types: Hospitalisation leave,
-Outpatient sick leave, Maternity leave, Sterilisation leave, Time chit.</p>
+<p>DigiMC can be issued for the following leave types: Hospitalization leave,
+Outpatient sick leave, Maternity leave, Sterilization leave, Time chit.</p>
 <h3>What does a DigiMC look like?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Screenshot of a Digital MC with components labelled" src="/images/digimc-screenshot.png">
