@@ -45,10 +45,16 @@ sections:
           description: How should I handle DigiMCs in my workflow?
           linktext: Learn more
           url: /employer-faq
-  - infobar:
+  - infocols:
       title: Still have questions?
-      id: infobar
-      description: Find answers to commonly asked questions
-      button: Get answers
+      id: infocols
+      linktext: Get answers now
       url: https://site.mc.gov.sg/faq/
+      infoboxes:
+        - title: Where is my MC?
+          description: ""
+        - title: I need sick leave ASAP
+          description: ""
+        - title: How do I get a digital MC?
+          description: ""
 ---
