@@ -47,6 +47,6 @@ sections:
           url: /employer-faq
   - resources:
       title: Still have questions?
-      subtitle: Add a preview and link to your Resource Room
       id: resources
+      button: Learn more here
 ---
