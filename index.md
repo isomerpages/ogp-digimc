@@ -45,8 +45,10 @@ sections:
           description: How should I handle DigiMCs in my workflow?
           linktext: Learn more
           url: /employer-faq
-  - resources:
+  - infobar:
       title: Still have questions?
-      id: resources
-      button: Learn more here
+      id: infobar
+      description: Find answers to commonly asked questions
+      button: Get answers
+      url: https://site.mc.gov.sg/faq/
 ---
