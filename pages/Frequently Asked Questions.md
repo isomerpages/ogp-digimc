@@ -19,7 +19,13 @@ situations, as we have no visibility over how the MC is distributed.</p>
 <p></p>
 <h3>I need sick leave immediately. How can I get an MC?</h3>
 <p>Digital MCs are issued by doctors. Meet a doctor near you to get an MC.
-<br>You can request your doctor for a digital MC.</p>
+<br>You can request your doctor for a digital MC.
+<br>
+</p>
+<h3>I received my DigiMC but the link says it's void. What do I do?</h3>
+<p>Digital MCs are issued by doctors and your doctor may have modified your
+DigiMC. Please contact the doctor who issued you the MC for further assistance.</p>
+<p></p>
 <p></p>
 <h3>What types of leave can doctors issue DigiMC for?</h3>
 <p>DigiMC can be issued for the following leave types: Hospitalization leave,
