@@ -26,7 +26,13 @@ situations, as we have no visibility over how the MC is distributed.</p>
 <p>Digital MCs are issued by doctors and your doctor may have modified your
 DigiMC. Please contact the doctor who issued you the MC for further assistance.</p>
 <p></p>
-<p></p>
+<h3>What if I do not receive my SMS link to the digital MC after seeing the doctor?</h3>
+<p>The SMS is handled by your doctor's hospital or clinic. Reach out to them
+directly - they can often assist you and resend the link. Our team is often
+unable to assist in such situations, as we have no visibility over how
+the MC is distributed.
+<br>
+</p>
 <h3>What types of leave can doctors issue DigiMC for?</h3>
 <p>DigiMC can be issued for the following leave types: Hospitalization leave,
 Outpatient sick leave, Maternity leave, Sterilization leave, Time chit.</p>
@@ -84,11 +90,6 @@ to prevent such a situation.</p>
 which has been sent to you via SMS. All your DigiMCs will appear in the
 same SMS conversation and you can refer to that SMS conversation to find
 a previous DigiMC.</p>
-<h3>What if I do not receive my SMS link to the digital MC after seeing the doctor?</h3>
-<p>The SMS is handled by your doctor's hospital or clinic. Reach out to them
-directly - they can often assist you and resend the link. Our team is often
-unable to assist in such situations, as we have no visibility over how
-the MC is distributed.</p>
 <h3>I have received the SMS but the URL does not work. Who can I contact for help?</h3>
 <p>Please contact us with <a href="https://form.gov.sg/66d817ca2c2279a412c57e86" rel="noopener nofollow" target="_blank">this form</a>,
 and we will follow up on your request promptly. While waiting for our response,
