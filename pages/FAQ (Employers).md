@@ -55,6 +55,6 @@ option etc.</p>
 <p>Notwithstanding that MCs can only be submitted to employers through patients’
 consent, we are open to exploring integrating with HR systems if your needs
 match our current available API and integration services provided. Please
-contact us at <a href="mailto:mc@open.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mc@open.gov.sg</a> to
+contact us via <a href="https://form.gov.sg/66d817ca2c2279a412c57e86" rel="noopener noreferrer nofollow" target="_blank">this form</a> to
 indicate your interest.</p>
 <p></p>
